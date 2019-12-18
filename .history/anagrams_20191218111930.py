@@ -6,7 +6,7 @@
     Module provides a function find_anagrams which can be used to do the same
     for an arbitrary list of strings.
 """
-__author__ = 'Enrique Galindo'
+__author__ = 'ericmhanson'
 import sys
 from collections import defaultdict
 def alphabetize(string):
